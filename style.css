@@ -1,0 +1,30 @@
+/*layout*/
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+/*RGB form*/
+#red {
+  background-color: red;
+}
+#green {
+  background-color: green;
+}
+
+#black {
+  background-color: black;
+}
+
+/*HEX*/
+#helx_value_section　{
+   padding: 10px; 
+   border: 2px solid #d9d9d9;
+}
+.colorCard {
+ height: 100px;
+  width: 100px;
+  margin-top: 50px;
+  
+}
